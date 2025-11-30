@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/Ndaru244.png" width="100" style="border-radius: 100%;" alt="Ndaru Avatar"/>
   <h1>Ndaru Langgeng Santosa</h1>
   <p><b>UI/UX Designer & Web Developer</b> based in Tangerang, ID 🇮🇩</p>
   
@@ -11,20 +10,25 @@
 <br/>
 
 ### 👨‍💻 About Me
-Saya adalah UI/UX Designer yang berfokus pada **User Research** dan **Functional Design**. Saat ini juga aktif mengembangkan kemampuan sebagai Web Developer (Junior) menggunakan ekosistem React & Next.js.
-* 🌱 **Currently Learning:** Next.js, FastAPI, React.
-* 🔭 **Current Project:** Sistem Informasi Sekolah (Klapper Siswa).
-* 🐧 **Daily Driver:** Fedora Linux (XFCE).
+Saya adalah seorang **UI/UX Designer** yang berfokus pada *User Research* dan penerjemahan kebutuhan pengguna ke dalam desain antarmuka yang intuitif.
+
+Latar belakang saya sebagai Developer memberi saya perspektif unik untuk menjembatani **Desain** dan **Teknis** secara efisien.
+* 🎨 **Design Focus:** Spesialisasi dalam Research, Wireframing, dan High-Fidelity Design.
+* 🚀 **Backend Expert:** Sangat mahir menggunakan **CodeIgniter 4** (PHP) dan **MySQL** untuk membangun sistem yang robust.
+* 📱 **Mobile Insight:** Memahami struktur dasar pengembangan aplikasi dengan **Flutter**.
+* 💻 **Hybrid Workflow:**
+    * **Development:** Linux (Fedora XFCE) 🐧
+    * **Design:** Windows 🪟
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack
 
 | **Category** | **Skills** |
 | :--- | :--- |
-| **Design & Research** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Miro](https://img.shields.io/badge/-Miro-050038?logo=miro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) |
-| **Backend** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?logo=inkscape&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) |
+| **Backend** | ![CodeIgniter 4](https://img.shields.io/badge/-CodeIgniter_4-EF4223?logo=codeigniter&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) <br/> ![FastAPI](https://img.shields.io/badge/FastAPI_(Learning)-009688?logo=fastapi&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React_(Learning)-20232a?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js_(Learning)-black?logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter_(Basic)-02569B?logo=flutter&logoColor=white) |
 
 ---
 
@@ -32,9 +36,10 @@ Saya adalah UI/UX Designer yang berfokus pada **User Research** dan **Functional
 
 | Project | Role | Status | Description |
 | :--- | :--- | :--- | :--- |
+| **[Sialam App](https://ndaru244.github.io/portfolio/sialam.html)** | UI/UX Lead | ✅ Completed | Aplikasi pendakian gunung. Usability improvement +25% melalui riset pengguna. |
 | **Klapper Siswa** | Fullstack | 🚧 In Progress | Sistem informasi & klasifikasi surat sekolah (Next.js + FastAPI). |
-| **[Sialam App](https://ndaru244.github.io/portfolio/sialam.html)** | UI/UX Lead | ✅ Completed | Aplikasi pendakian gunung. Usability improvement +25%. |
-| **[Omhut Parkopi](https://github.com/Ndaru244/omhut)** | Fullstack | ✅ Deployed | Web App Self-Service kedai kopi (CodeIgniter 3). |
+| **[Crooked Indonesia](https://github.com/Ndaru244/crooked)** | Backend | 📦 Archived | Sistem E-Commerce katalog fashion (Custom Logic). |
+| **[Omhut Parkopi](https://github.com/Ndaru244/omhut)** | Fullstack | ✅ Deployed | Web App Self-Service kedai kopi (CodeIgniter 3/4). |
 
 ---
 
