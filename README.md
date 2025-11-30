@@ -36,15 +36,15 @@ Latar belakang saya sebagai Developer memberi saya perspektif unik untuk menjemb
 
 | Project | Role | Status | Description |
 | :--- | :--- | :--- | :--- |
-| **[Sialam App](https://ndaru244.github.io/portfolio/sialam.html)** | UI/UX Lead | ✅ Completed | Aplikasi pendakian gunung. Usability improvement +25% melalui riset pengguna. |
-| **Klapper Siswa** | Fullstack | 🚧 In Progress | Sistem informasi & klasifikasi surat sekolah (Next.js + FastAPI). |
-| **[Crooked Indonesia](https://github.com/Ndaru244/crooked)** | Backend | 📦 Archived | Sistem E-Commerce katalog fashion (Custom Logic). |
-| **[Omhut Parkopi](https://github.com/Ndaru244/omhut)** | Fullstack | ✅ Deployed | Web App Self-Service kedai kopi (CodeIgniter 3/4). |
+| **[Sialam App](https://ndaru244.github.io/portfolio/sialam.html)** | UI/UX Lead | ✅ | Aplikasi pendakian gunung. Usability improvement +25% melalui riset pengguna. |
+| **Klapper Siswa Klasifikasi Surat** | Fullstack | 🚧 | Sistem informasi & klasifikasi surat sekolah (CodeIgniter 4 + MySQL). |
+| **[Crooked Indonesia](https://github.com/Ndaru244/crooked)** | Backend | 📥 | Sistem E-Commerce katalog fashion (Custom Logic). |
+| **[Omhut Parkopi](https://github.com/Ndaru244/omhut)** | Fullstack | ✅ | Web App Self-Service kedai kopi (CodeIgniter 3/4). |
 
 ---
 
 ### 📊 Github Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ndaru244&show_icons=true&theme=default&hide_border=true&count_private=true" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ndaru244&show_icons=true&theme=default&hide_border=true" height="130" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndaru244&layout=compact&theme=default&hide_border=true" height="130" alt="languages graph" />
 </div>
