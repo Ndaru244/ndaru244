@@ -45,6 +45,6 @@ Latar belakang saya sebagai Developer memberi saya perspektif unik untuk menjemb
 
 ### 📊 Github Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ndaru244&show_icons=true&theme=default&hide_border=true" height="130" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndaru244&layout=compact&theme=default&hide_border=true" height="130" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ndaru244&show_icons=true&theme=default&hide_border=true" height="130" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ndaru244&layout=compact&theme=default&hide_border=true" height="130" alt="languages graph" />
 </div>
