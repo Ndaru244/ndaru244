@@ -27,7 +27,7 @@ Latar belakang saya sebagai Developer memberi saya perspektif unik untuk menjemb
 | **Category** | **Skills** |
 | :--- | :--- |
 | **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?logo=inkscape&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) |
-| **Backend** | ![CodeIgniter 4](https://img.shields.io/badge/-CodeIgniter_4-EF4223?logo=codeigniter&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) <br/> ![FastAPI](https://img.shields.io/badge/FastAPI_(Learning)-009688?logo=fastapi&logoColor=white) |
+| **Backend** | ![CodeIgniter 4](https://img.shields.io/badge/-CodeIgniter_4-EF4223?logo=codeigniter&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) <br/> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React_(Learning)-20232a?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js_(Learning)-black?logo=next.js&logoColor=white) |
 | **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter_(Basic)-02569B?logo=flutter&logoColor=white) |
 ---
