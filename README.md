@@ -1,11 +1,11 @@
 # Ndaru Langgeng Santosa
-**UI/UX Designer & Web Developer** | Tangerang, Indonesia 🇮🇩
+**UI/UX Designer & Web Developer** | Tangerang, Indonesia :indonesia:
 
 [Email](mailto:ndarulanggeng110@gmail.com) • [LinkedIn](https://www.linkedin.com/in/ndaru-langgeng-santosa-2b926b1a6/) • [Dribbble](https://dribbble.com/ndaru244) • [GitHub](https://github.com/Ndaru244)
 
 ---
 
-### 👨‍💻 Profile
+### Profile
 Seorang **UI/UX Designer** dengan latar belakang teknis sebagai **Web Developer**. Memiliki spesialisasi dalam menjembatani kebutuhan pengguna dengan solusi teknis yang efisien melalui *User Research*, *Wireframing*, hingga *High-Fidelity Design*.
 
 * **Design Philosophy:** User-centered, intuitive, and scalable.
@@ -14,7 +14,7 @@ Seorang **UI/UX Designer** dengan latar belakang teknis sebagai **Web Developer*
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Design & Research**
 * Figma, Inkscape, Canva
@@ -27,7 +27,7 @@ Seorang **UI/UX Designer** dengan latar belakang teknis sebagai **Web Developer*
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 | Project | Role | Description |
 | :--- | :--- | :--- |
@@ -38,7 +38,7 @@ Seorang **UI/UX Designer** dengan latar belakang teknis sebagai **Web Developer*
 
 ---
 
-### 📊 Statistics
+### Statistics
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ndaru244&show_icons=true&theme=vibrant&hide_border=true" height="150" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ndaru244&layout=compact&theme=vibrant&hide_border=true" height="150" />
