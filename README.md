@@ -1,45 +1,63 @@
+<div align="center">
+
 # Ndaru Langgeng Santosa
-**UI/UX Designer & Web Developer** | Tangerang, Indonesia :indonesia:
+**UI/UX Designer**
+Tangerang, Indonesia
 
-[Email](mailto:ndarulanggeng110@gmail.com) • [LinkedIn](https://www.linkedin.com/in/ndaru-langgeng-santosa-2b926b1a6/) • [Dribbble](https://dribbble.com/ndaru244) • [GitHub](https://github.com/Ndaru244)
-
----
-
-### Profile
-Seorang **UI/UX Designer** dengan latar belakang teknis sebagai **Web Developer**. Memiliki spesialisasi dalam menjembatani kebutuhan pengguna dengan solusi teknis yang efisien melalui *User Research*, *Wireframing*, hingga *High-Fidelity Design*.
-
-* **Design Philosophy:** User-centered, intuitive, and scalable.
-* **Technical Edge:** Mahir dalam pengembangan sistem menggunakan CodeIgniter 4 dan MySQL.
-* **Workflow:** Terbiasa bekerja secara hybrid menggunakan Linux (Fedora) untuk development dan Windows untuk design.
+[Email](mailto:ndarulanggeng110@gmail.com) • [LinkedIn](https://www.linkedin.com/in/ndaru-langgeng-santosa-2b926b1a6/) • [Dribbble](https://dribbble.com/ndarul244) • [GitHub](https://github.com/Ndaru244)
 
 ---
 
-### Tech Stack
+### About Me
+I am a passionate **UI/UX Designer** focused on creating intuitive and aesthetically pleasing digital experiences. While my core expertise lies in design, research, and prototyping, I also have a strong interest in **Web Development**. 
 
-**Design & Research**
-* Figma, Inkscape, Canva
-* User Research, Information Architecture, Prototyping
+I utilize my development skills to better understand technical constraints and to build functional prototypes. I am currently expanding my knowledge in modern frontend technologies to further bridge the gap between design and code.
 
-**Development (Backend & Frontend)**
-* **Core:** PHP (CodeIgniter 4), MySQL, JavaScript
-* **UI/UX Dev:** HTML5, CSS3, Bootstrap
-* **Learning Path:** React, Next.js, Flutter (Basic)
+**Philosophy:** User-first design, code-supported solutions.
+
+</div>
+
+### Expertise & Learning
+
+| Category | Skills |
+| :--- | :--- |
+| **Primary: Design** | Figma, Inkscape, Prototyping, User Research, Information Architecture |
+| **Development** | HTML5, CSS3, JavaScript, Bootstrap |
+| **Learning Path** | React, Next.js, Tailwind CSS, CodeIgniter 4 |
+| **Tools** | Linux (Fedora), Git, Windows (Design Workflow) |
 
 ---
 
 ### Featured Projects
 
-| Project | Role | Description |
-| :--- | :--- | :--- |
-| **Sialam App** | UI/UX Lead | Aplikasi pendakian gunung. Meningkatkan usability sebesar 25% melalui riset mendalam. |
-| **Klapper Siswa** | Fullstack | Sistem klasifikasi surat sekolah berbasis CodeIgniter 4 & MySQL. |
-| **Crooked Indonesia** | Backend | Pengembangan logika kustom untuk platform e-commerce fashion. |
-| **Omhut Parkopi** | Fullstack | Web App self-service untuk operasional kedai kopi. |
+#### **Sialam App** | UI/UX Lead
+*A mountain climbing application focused on user experience.*
+- Conducted comprehensive field research and usability testing.
+- Improved overall app usability by 25% through iterative prototyping.
+
+#### **School Management System** | UI/UX & Web Dev (Learning Project)
+*A digital solution for institutional management.*
+- Designed the dashboard interface and implemented features using CI4 & MySQL.
+- Focused on applying UX principles to administrative workflows.
+
+#### **Crooked Indonesia** | Designer & Contributor
+*Custom logic and design for a fashion e-catalog platform.*
+- Contributed to the design system and backend logic development.
+- Focused on balancing aesthetic appeal with system performance.
+
+#### **Omhut Parkopi** | UI/UX & Web Dev (Learning Project)
+*Self-service application for coffee shop operations.*
+- Designed the user flow and developed the ordering interface.
+- Experimented with automating daily operational tasks.
 
 ---
 
-### Statistics
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ndaru244&show_icons=true&theme=vibrant&hide_border=true" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ndaru244&layout=compact&theme=vibrant&hide_border=true" height="150" />
+### GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ndaru244&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndaru244&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ndaru244&theme=tokyonight&hide_border=true" height="150" />
 </p>
