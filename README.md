@@ -1,6 +1,7 @@
 <div align="center">
 
 # Ndaru Langgeng Santosa
+
 **UI/UX Designer**
 Tangerang, Indonesia
 
@@ -9,7 +10,8 @@ Tangerang, Indonesia
 ---
 
 ### About Me
-I am a passionate **UI/UX Designer** focused on creating intuitive and aesthetically pleasing digital experiences. While my core expertise lies in design, research, and prototyping, I also have a strong interest in **Web Development**. 
+
+I am a passionate **UI/UX Designer** focused on creating intuitive and aesthetically pleasing digital experiences. While my core expertise lies in design, research, and prototyping, I also have a strong interest in **Web Development**.
 
 I utilize my development skills to better understand technical constraints and to build functional prototypes. I am currently expanding my knowledge in modern frontend technologies to further bridge the gap between design and code.
 
@@ -17,38 +19,42 @@ I utilize my development skills to better understand technical constraints and t
 
 </div>
 
-### Expertise & Learning
-
-| Category | Skills |
-| :--- | :--- |
-| **Primary: Design** | Figma, Inkscape, Prototyping, User Research, Information Architecture |
-| **Development** | HTML5, CSS3, JavaScript, Bootstrap |
-| **Learning Path** | React, Next.js, Tailwind CSS, CodeIgniter 4 |
-| **Tools** | Linux (Fedora), Git, Windows (Design Workflow) |
-
----
+| Category                    | Skills                                                                |
+| :-------------------------- | :-------------------------------------------------------------------- |
+| **Primary: Design**         | Figma, Inkscape, Prototyping, User Research, Information Architecture |
+| **Development**             | HTML5, CSS3, JavaScript, Bootstrap, CodeIgniter 4                     |
+| **Learning Path**           | React, Next.js, Tailwind CSS, Flutter                                 |
+| **Development Environment** | Linux (Fedora), Git, Windows (Design Workflow)                        |
 
 ### Featured Projects
 
-#### **Sialam App** | UI/UX Lead
-*A mountain climbing application focused on user experience.*
-- Conducted comprehensive field research and usability testing.
-- Improved overall app usability by 25% through iterative prototyping.
+#### **Sialam App** | UI/UX Designer
 
-#### **School Management System** | UI/UX & Web Dev (Learning Project)
-*A digital solution for institutional management.*
-- Designed the dashboard interface and implemented features using CI4 & MySQL.
-- Focused on applying UX principles to administrative workflows.
+_Mountain climbing application focused on user experience._
 
-#### **Crooked Indonesia** | Designer & Contributor
-*Custom logic and design for a fashion e-catalog platform.*
-- Contributed to the design system and backend logic development.
-- Focused on balancing aesthetic appeal with system performance.
+- Facilitated user research and iterative prototyping.
+- Improved overall app usability by 25% through research-backed design.
 
-#### **Omhut Parkopi** | UI/UX & Web Dev (Learning Project)
-*Self-service application for coffee shop operations.*
-- Designed the user flow and developed the ordering interface.
-- Experimented with automating daily operational tasks.
+#### **School Management System** | Fullstack
+
+_A digital solution for institutional management._
+
+- Designed intuitive dashboard interfaces for school administrators.
+- Developed core management features using CodeIgniter 4 and MySQL.
+
+#### **Crooked Indonesia** | Backend
+
+_E-catalog platform for a local fashion brand._
+
+- Optimized custom logic for product classification and navigation.
+- Balanced aesthetic presentation with backend efficiency.
+
+#### **Omhut Parkopi** | Fullstack
+
+_Self-service application for coffee shop operations._
+
+- Created a seamless digital ordering experience for customers.
+- Integrated inventory management with a functional user interface.
 
 ---
 
